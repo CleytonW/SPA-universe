@@ -1,0 +1,23 @@
+{
+  "name": "spa-universe",
+  "version": "1.0.0",
+  "description": "<aside>",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleytonW/spa-universe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleytonW/spa-universe/issues"
+  },
+  "homepage": "https://github.com/CleytonW/spa-universe#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
