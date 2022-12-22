@@ -4,3 +4,14 @@ body {
   background-attachment: fixed;
   background-size: 100% 100%;
 }
+
+.universe-page {
+  margin: 5rem 10rem 0;
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  max-width: 64rem;
+  margin-top: 1.6rem;
+}

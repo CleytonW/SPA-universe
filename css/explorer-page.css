@@ -1,7 +1,19 @@
 body {
-  height: 100vh;
+  /* height: 100vh; */
   background-image: url(/assets/mountains-universe-3.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
+}
+
+.explorer-page {
+  margin: 5rem 10rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: initial;
+}
+
+p {
+  max-width: 64rem;
+  margin-top: 1.6rem;
 }
